@@ -4,7 +4,7 @@ for (let i = 0; i < 3; i++) {
         console.log(i); // Hiện tại in ra 3,3,3
     }, 100);
 }
-// Yêu cầu: Sửa để in ra 0,1,2
+// Yêu cầu: Sửa để8888 in ra 0,1,2
 
 // Tạo một object student với const
 // Thêm thuộc tính điểm và in ra
